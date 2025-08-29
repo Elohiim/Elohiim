@@ -1,6 +1,13 @@
 ## Hi there 👋
 
+<h1>
+  <h2 align="center">❂ I am Elohim</h2>
+</h1>
 
+<h4 align="left">🌟I’m an Electronics Technician working at a private company, passionate about building, fixing, and experimenting with tech.⚡ I love diving into anything electronics & technology related — from circuits to cool gadgets.
+🏐 When I’m not working with tech, you’ll probably find me on a volleyball court, playing with friends or enjoying live matches nearby.
+📖 In my chill time, I’m into manga, usually with 🎧 music playing in the background — the perfect combo.
+🌅 And nothing beats a refreshing morning walk on the beach to start the day right..</h4>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
