@@ -18,7 +18,7 @@
 - ⚡ Fun fact: ...
 
  <h3>🧲 Connect me :</h3>
-<a href="sillyswimmer@duck.com">
+<a href="mailto:sillyswimmer@duck.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
   
   <a href="https://www.linkedin.com/in/el%C3%B2him/" target="_blank">
