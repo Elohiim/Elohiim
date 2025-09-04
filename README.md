@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="profile.jpg" alt="Profile Image" width="120" align="left" style="border-radius: 50%; margin-right: 15px;" />
 <h1>
   <h2 align="center">❂ I am Elohim</h2>
 </h1>
