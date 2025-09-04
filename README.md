@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Elohiim/Elohiim/blob/main/1.gif" alt="Header GIF">
+</p>
+
 <img src="profile.jpg" alt="Profile Image" width="120" align="left" style="border-radius: 60%; margin-right: 15px;" />
 <h1>
   <h2 align="center">❂ I am Elohim</h2>
