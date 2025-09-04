@@ -23,10 +23,13 @@
 
  <h3>🧲 Connect me :</h3>
 <a href="mailto:sillyswimmer@duck.com">
-  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
+  <img width="60px" src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" alt="Gmail" /></a> 
   
   <a href="https://www.linkedin.com/in/el%C3%B2him/" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
+    <img width="60px" src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" alt="LinkedIn" /></a> 
     
 <a href="https://open.spotify.com/user/312heb6s5p4rcy6bcvzwsum6n6dy" target="_blank">
-  <img width="60px" src="https://cdn.jim-nielsen.com/watchos/512/spotify-music-and-podcasts-2020-03-19.png?rf=1024" alt="Spotify Badge"></a>
+  <img width="60px" src="https://img.icons8.com/?size=100&id=G9XXzb9XaEKX&format=png&color=000000" alt="Spotify Badge"></a>
+  
+<a href="" target="_blank">
+  <img width="60px" src="https://img.icons8.com/?size=100&id=12226&format=png&color=000000" alt="Spotify Badge"></a>
